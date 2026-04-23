@@ -6,6 +6,7 @@ This repo is basically my "learning ledger." I’m ignoring high-level shortcuts
 
 🛠️ The Roadmap
 Phase 1: Pointers & Memory (The Basics)
+
 [x] Project 1: Array Reverser (No arr[i] allowed; just pointers)
 
 [x] Project 2: Struct Swapper (Using double pointers for efficiency)
