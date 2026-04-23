@@ -1,10 +1,10 @@
-# 30-Mini-C-Projects
+# 28-Mini-C-Projects
 
-I'm knocking out 28 specific projects to get comfortable with how C actually manages memory.
+I'm a beginner trying to code in C language. There are 28 specific projects to get comfortable with how C actually manages memory.
 
 This repo is basically my "learning ledger." I’m ignoring high-level shortcuts and focusing on the stuff that actually matters for engineering: raw pointers, the heap, and building data structures from scratch.
 
-🛠️ The Roadmap
+The Roadmap
 Phase 1: Pointers & Memory (The Basics)
 
 [x] Project 1: Array Reverser (No arr[i] allowed; just pointers)
@@ -69,10 +69,10 @@ Phase 4: The "Pro" Workflow
 💻 My Setup
 Hardware: ASUS Zenbook S16
 
-OS: Windows / Linux (WSL2)
+OS: Windows
 
-Compiler: GCC
+Compiler: GCC MSYS2
 
 Editor: VS Code
 
-If you’re a recruiter or a fellow SIT student, feel free to poke around the code. It might not be perfect yet, but it's getting there.
+If you’re a recruiter or a fellow student, feel free to poke around the code. It might not be perfect yet, but it's getting there. :)
