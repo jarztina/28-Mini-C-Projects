@@ -11,7 +11,7 @@ Phase 1: Pointers & Memory (The Basics)
 
 [x] Project 2: Struct Swapper (Using double pointers for efficiency)
 
-[ ] Project 3: Custom strcpy (Walking through memory with pointer arithmetic)
+[x] Project 3: Custom strcpy (Walking through memory with pointer arithmetic)
 
 [ ] Project 4: Dynamic Gradebook (First dive into malloc and free)
 
