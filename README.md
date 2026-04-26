@@ -13,7 +13,7 @@ Phase 1: Pointers & Memory (The Basics)
 
 [x] Project 3: Custom strcpy (Walking through memory with pointer arithmetic)
 
-[ ] Project 4: Dynamic Gradebook (First dive into malloc and free)
+[x] Project 4: Dynamic Gradebook (First dive into malloc and free)
 
 [ ] Project 5: Memory Leak Lab (Hunting leaks with Valgrind)
 
