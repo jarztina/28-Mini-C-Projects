@@ -15,7 +15,7 @@ Phase 1: Pointers & Memory (The Basics)
 
 [x] Project 4: Dynamic Gradebook (First dive into malloc and free)
 
-[ ] Project 5: Memory Leak Lab (Hunting leaks with Valgrind)
+[x] Project 5: Memory Leak Lab
 
 [ ] Project 6: Nested Pointer Multiplier (Using **ptr to change values across functions)
 
