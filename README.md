@@ -17,7 +17,7 @@ Phase 1: Pointers & Memory (The Basics)
 
 [x] Project 5: Memory Leak Lab
 
-[ ] Project 6: Nested Pointer Multiplier (Using **ptr to change values across functions)
+[x] Project 6: Nested Pointer Multiplier (Using **ptr to change values across functions)
 
 [ ] Project 7: Capstone: Dynamic String Buffer (Building a realloc system for text)
 
