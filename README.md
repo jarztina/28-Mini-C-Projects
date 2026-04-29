@@ -19,10 +19,10 @@ Phase 1: Pointers & Memory (The Basics)
 
 [x] Project 6: Nested Pointer Multiplier (Using **ptr to change values across functions)
 
-[ ] Project 7: Capstone: Dynamic String Buffer (Building a realloc system for text)
+[x] Project 7: Capstone: Dynamic String Buffer (Building a realloc system for text)
 
 Phase 2: Data Structures
-[ ] Project 8: Business Card Struct
+[x] Project 8: Business Card Struct
 
 [ ] Project 9: Linked List: "Push"
 
