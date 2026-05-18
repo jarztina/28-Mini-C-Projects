@@ -24,24 +24,24 @@ Phase 1: Pointers & Memory (The Basics)
 Phase 2: Data Structures
 [x] Project 8: Business Card Struct
 
-[ ] Project 9: Linked List: "Push"
+[x] Project 9: Linked List: "Push"
 
-[ ] Project 10: Linked List: "Pop"
+[x] Project 10: Linked List: "Pop"
 
-[ ] Project 11: Building a Stack (LIFO)
+[x] Project 11: Building a Stack (LIFO)
 
-[ ] Project 12: Building a Queue (FIFO)
+[x] Project 12: Building a Queue (FIFO)
 
-[ ] Project 13: Linked List Search
+[x] Project 13: Linked List Search
 
-[ ] Project 14: Capstone: Student Database (Full CRUD on a linked list)
+[x] Project 14: Capstone: Student Database (Full CRUD on a linked list)
 
 Phase 3: Files & Bits
-[ ] Project 15: System Log Writer
+[x] Project 15: System Log Writer
 
-[ ] Project 16: Word Counter
+[x] Project 16: Word Counter
 
-[ ] Project 17: Binary Image Copier
+[x] Project 17: Binary Image Copier
 
 [ ] Project 18: Bitwise Permission Checker (R/W/X logic)
 
